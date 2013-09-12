@@ -159,6 +159,34 @@ F http://www.atmel.com/Images/Atmel-8812-SEEPROM-AT24CM01-Datasheet.pdf
 $ENDCMP
 #
 #
+$CMP DERFMEGA128-22A02
+D dresden elektronik deRFmega128-22A02 2.4GHz Radio Module
+K RADIO MODULE
+F http://www.dresden-elektronik.de/funktechnik/products/radio-modules/avr-single-chip-modules/description/?L=1&eID=dam_frontend_push&docID=1201
+$ENDCMP
+#
+#
+$CMP LE33CZ
+D ST LE33CZ 3.3V Low Drop Voltage Regulator 
+K VOLTAGE REGULATOR
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000545.pdf?s_searchtype=keyword
+$ENDCMP
+#
+#
+$CMP AVR-JTAG-ICE
+D AVR JTAG ICE Connector
+K AVR JTAG ICE CONNECTOR
+F http://www.atmel.com/Images/doc2475.pdf
+$ENDCMP
+#
+#
+$CMP TPS62177DQCR
+D Texas Instruments TPS62177DQCR 28V/0.5A Step-Down DC-DC Converter
+K CONVERTER
+F http://www.ti.com/lit/ds/symlink/tps62177.pdf
+$ENDCMP
+#
+#
 #
 #
 #End Doc Library
